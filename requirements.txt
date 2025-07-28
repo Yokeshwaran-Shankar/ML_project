@@ -4,5 +4,8 @@ seaborn
 matplotlib
 scikit-learn
 nltk
-
--e .
+xgboost
+catboost
+Flask
+dill
+#-e .
